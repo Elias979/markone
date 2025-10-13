@@ -7,7 +7,9 @@ export default function Home() {
     <main className={styles.main}>
       <h1>Hej Next.js </h1>
       <p>Detta är startsidan.</p>
-      <Button onClick={() => alert("Klick!")}>Klicka mig</Button>
+      <Button onClick={() => alert("Hello!")}>Primär</Button>
+      <Button dark>Knight Mode</Button>
+      <Button fullWidth>Full bredd</Button>
 
     </main>
   );
