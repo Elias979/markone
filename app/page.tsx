@@ -1,3 +1,4 @@
+'use client'; // Lägg överst i page.tsx
 import Button from "./components/Button";
 import styles from "./page.module.css";
 
