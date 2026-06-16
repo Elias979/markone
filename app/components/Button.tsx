@@ -1,4 +1,4 @@
-'use client'; // <-- Lägg till den här raden överst
+"use client"; // <-- Lägg till den här raden överst
 import styles from "./Button.module.css";
 
 type Props = {
